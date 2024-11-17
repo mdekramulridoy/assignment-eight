@@ -1,0 +1,136 @@
+[
+  {
+    "product_id": "LAP001",
+    "product_title": "Dell Inspiron 15",
+    "product_image": "https://i.ibb.co.com/WGW3rjZ/1.jpg",
+    "category": "Laptop",
+    "price": 650,
+    "description": "15.6 inch laptop with Intel Core i5 and 8GB RAM.",
+    "Specification": ["Intel Core i5", "8GB RAM", "256GB SSD", "15.6 inch Full HD"],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "WCH002",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/D5kTQFp/12.jpg",
+    "category": "Smart Watch",
+    "price": 250,
+    "description": "Samsung’s smart watch with advanced health tracking.",
+    "Specification": ["ECG Monitoring", "Sleep Tracking", "Body Composition Analysis", "GPS"],
+    "availability": true,
+    "rating": 4.7
+  }
+  ,
+  {
+    "product_id": "LAP003",
+    "product_title": "Apple MacBook Pro 13",
+    "product_image": "https://i.ibb.co.com/SBPqTS6/3.jpg",
+    "category": "Laptop",
+    "price": 1300,
+    "description": "13-inch MacBook Pro with M1 chip and 8GB RAM.",
+    "Specification": ["Apple M1 Chip", "8GB RAM", "256GB SSD", "13.3 inch Retina Display"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "LAP004",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/gJWGz9k/4.jpg",
+    "category": "Laptop",
+    "price": 1450,
+    "description": "Lightweight business laptop with 14-inch screen.",
+    "Specification": ["Intel Core i7", "16GB RAM", "1TB SSD", "14 inch WQHD Display"],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "product_id": "LAP005",
+    "product_title": "Acer Aspire 5",
+    "product_image": "https://i.ibb.co.com/K6d0JVQ/5.jpg",
+    "category": "Laptop",
+    "price": 500,
+    "description": "Affordable laptop with 15.6 inch display and AMD Ryzen 5.",
+    "Specification": ["AMD Ryzen 5", "8GB RAM", "256GB SSD", "15.6 inch Full HD"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "product_id": "LAP006",
+    "product_title": "Asus ZenBook 14",
+    "product_image": "https://i.ibb.co.com/J7fZMxj/6.jpg",
+    "category": "Laptop",
+    "price": 900,
+    "description": "Ultra-slim laptop with NanoEdge display.",
+    "Specification": ["Intel Core i5", "8GB RAM", "512GB SSD", "14 inch Full HD"],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "PHN001",
+    "product_title": "iPhone 14",
+    "product_image": "https://i.ibb.co.com/gzVxBSG/7.jpg",
+    "category": "Phone",
+    "price": 999,
+    "description": "Latest iPhone model with advanced camera features.",
+    "Specification": ["128GB Storage", "A15 Bionic Chip", "6.1 inch Display", "Dual 12MP Cameras"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "PHN002",
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/YQG8dRj/8.jpg",
+    "category": "Phone",
+    "price": 799,
+    "description": "Samsung’s flagship phone with dynamic AMOLED display.",
+    "Specification": ["128GB Storage", "Snapdragon 888", "6.2 inch Display", "Triple Camera"],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "product_id": "ACC001",
+    "product_title": "Anker PowerCore 10000",
+    "product_image": "https://i.ibb.co.com/wrK74Rz/9.jpg",
+    "category": "Accessory",
+    "price": 52,
+    "description": "Compact portable charger with 10000mAh capacity.",
+    "Specification": ["10000mAh Capacity", "Fast Charging", "Compact Design"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "ACC002",
+    "product_title": "Logitech MX Master 3",
+    "product_image": "https://i.ibb.co.com/4PrzhPm/10.jpg",
+    "category": "Accessory",
+    "price": 99,
+    "description": "Advanced wireless mouse with ergonomic design.",
+    "Specification": ["Ergonomic Design", "Rechargeable Battery", "Customizable Buttons"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "WCH001",
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/4Tk9rM4/11.jpg",
+    "category": "Smart Watch",
+    "price": 399,
+    "description": "Latest Apple Watch with always-on display.",
+    "Specification": ["Always-on Display", "Blood Oxygen Monitoring", "ECG App", "Fitness Tracking"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "LAP002",
+    "product_title": "HP Pavilion x360",
+    "product_image": "https://i.ibb.co.com/wsTw5HR/2.jpg",
+    "category": "Laptop",
+    "price": 780,
+    "description": "2-in-1 convertible laptop with 10th Gen Intel i7.",
+    "Specification": ["Intel Core i7", "16GB RAM", "512GB SSD", "14 inch Touchscreen"],
+    "availability": true,
+    "rating": 4.5
+  }
+  
+]
