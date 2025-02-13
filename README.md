@@ -5,9 +5,6 @@
 # Live Website Link
 Live-link: lyrical-act.surge.sh
 
-# Requirement Document Link
-Repository-link: https://github.com/programming-hero-web-course2/b10a8-gadget-heaven-mdekramulridoy
-
 ## React Fundamental Concepts Used in the Project
 
 1. **Components**: Building reusable UI components like Navbar, Footer, Product Cards, etc.
